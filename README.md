@@ -1,3 +1,4 @@
 # Noode Farm
 
-![image](https://github.com/carinebatista/node-farm/assets/18583716/0fc0e9ed-696a-46a6-a1e6-fa77a3ae8418)
+![image](https://github.com/carinebatista/node-farm/assets/18583716/731144da-0c41-4bd5-b3d7-5a28583c40dd)
+
